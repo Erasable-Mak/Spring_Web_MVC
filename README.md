@@ -49,12 +49,6 @@ select * from todo;
 \quit
 ```
 
-Docker Commands
-```
-docker container ls
-docker container stop ID
-```
-
 ## Installation
 
 https://dev.mysql.com/doc/mysql-shell/8.0/en/mysql-shell-install.html
