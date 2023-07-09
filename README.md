@@ -1,5 +1,8 @@
 # Web Application with Spring Boot
 
+Configurations: If some issue comes up configure pom.xml dependencies
+
+
 Spring Boot Web Application related to todo work with database.
 
 ### Navigation - HTML + Bootstrap
